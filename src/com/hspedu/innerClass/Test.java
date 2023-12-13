@@ -19,5 +19,6 @@ public class Test {
         Test t = new Test();
         Inner r = t.new Inner();
         System.out.println(r.a);
+        System.out.println("hello");
     }
 }
