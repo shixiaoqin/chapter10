@@ -20,5 +20,7 @@ public class Test {
         Inner r = t.new Inner();
         System.out.println(r.a);
         System.out.println("hello");
+        System.out.println("dev test");
+        System.out.println("de");
     }
 }
